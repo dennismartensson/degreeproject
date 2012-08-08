@@ -1,4 +1,4 @@
-net = require('net');
+var net = require('net');
 
 //Array to store connections
 var sockets = [];
